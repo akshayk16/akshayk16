@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayk16&label=Profile%20views&color=0e75b6&style=flat" alt="akshayk16" width="150px" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayk16" alt="akshayk16" width="480px"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayk16" alt="akshayk16" width="420px"/></a> </p>
 
 - 💬 Ask me about: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 
